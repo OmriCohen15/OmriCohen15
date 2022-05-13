@@ -9,7 +9,7 @@ ________________________________________________________________________________
  **👨‍🎓 About Me**
  ________________________________________________________________________________________________________________________________________________________________________
  🖋 Currently studying Software Engineering (BSc) at ORT Braude College
- 🌎 I'm from Karmiel,Israel
+ 🌎 I'm from Kiryat motzkin,Israel
  
  🗒 Can reach me at: omricohen1511@gmail.com
  
