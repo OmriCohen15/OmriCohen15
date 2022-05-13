@@ -2,7 +2,7 @@
 
 **I'm a Software Engineering student Currently in my third year**
   
-**Currently Looking for a student position**
+**Working as software validation intern at Ramon Space**
 _________________________________________________________________________________________________________________________________________________________________________
 
 
