@@ -1,5 +1,3 @@
-# README
-
 **Hi 👋, I’m Omri Cohen!**
 
 **I'm a Software Engineering student Currently in my third year**
