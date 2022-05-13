@@ -1,15 +1,10 @@
 **Hi 👋, I’m Omri Cohen!**
-
-**I'm a Software Engineering student Currently in my third year**
-  
-**Working as software validation intern at Ramon Space**
 _________________________________________________________________________________________________________________________________________________________________________
-
 
  **👨‍🎓 About Me**
  ________________________________________________________________________________________________________________________________________________________________________
- 🖋 Currently studying Software Engineering (BSc) at ORT Braude College
- 🌎 I'm from Kiryat motzkin,Israel
+ 🖋 **I'm a studying Software Engineering (BSc) at ORT Braude College and Working as software validation intern at Ramon Space**
+ 🌎 I'm from Kiryat motzkin, Israel
  
  🗒 Can reach me at: omricohen1511@gmail.com
  
