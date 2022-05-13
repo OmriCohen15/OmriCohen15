@@ -11,7 +11,7 @@ ________________________________________________________________________________
  🖋 Currently studying Software Engineering (BSc) at ORT Braude College
  🌎 I'm from Karmiel,Israel
  
- 🗒 Can reach me at: omricohrn1511@gmail.com
+ 🗒 Can reach me at: omricohen1511@gmail.com
  
  💻 My Most recent project: 
  ________________________________________________________________________________________________________________________________________________________________________
